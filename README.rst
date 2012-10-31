@@ -1,4 +1,4 @@
-*clickr* is an smpt server that pretends to store e-mails for any user
+*clickr* is an smtp server that pretends to store e-mails for any user
 but then just clicks URLs that look like account-verification links
 and does not store the e-mail afterwards.
 The sending mailserver will get a "delivery in progress" response, so
